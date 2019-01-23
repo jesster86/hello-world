@@ -5,4 +5,4 @@
   Seriously. Just ignore it.
 */
 
-echo "La la la";
+echo "La la la La";
