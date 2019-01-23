@@ -8,7 +8,7 @@
 echo "Bla bla blubb";
 
 function test(){
-  alert("Hallo Welt");
+  alert("Hallo Welt!");
 }
 
 return test;
