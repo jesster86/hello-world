@@ -5,4 +5,4 @@
   Seriously. Just ignore it.
 */
 
-echo "Saved by the bell";
+echo "Bla bla blubb";
