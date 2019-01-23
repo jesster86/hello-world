@@ -6,3 +6,9 @@
 */
 
 echo "Bla bla blubb";
+
+function test(){
+  alert("Hallo Welt");
+}
+
+return test;
