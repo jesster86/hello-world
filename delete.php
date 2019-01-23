@@ -2,4 +2,5 @@
 
 /*
   Delete
+  Einfach alles Löschen
 */
